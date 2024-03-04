@@ -4,6 +4,13 @@
 
 <h1>Welcome to Kush Pamnani's Hub 👋</h1>
 
+
+<div align="left">
+
+# Greetings!
+I'm Kush Pamnani, a passionate junior at Iowa State University, deeply immersed in the world of Computer Science. My academic journey is not just about earning a degree; it's a quest fueled by a profound interest in web and software development. This path has led me to explore the intricacies of coding, design, and innovation, driving me towards mastering the art of creating impactful digital solutions.
+
+</div>
 🎓 <h2>Greetings!</h2>
 <p> I'm <strong>Kush Pamnani</strong>, a passionate junior at Iowa State University, deeply immersed in the world of Computer Science. My academic journey is not just about earning a degree; it's a quest fueled by a profound interest in <strong>web and software development</strong>. This path has led me to explore the intricacies of coding, design, and innovation, driving me towards mastering the art of creating impactful digital solutions.</p>
 
