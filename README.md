@@ -17,41 +17,5 @@
 
 <p>Together, let's turn visions into realities and dreams into tangible achievements. Welcome to my hub, where the journey is just as thrilling as the destination.</p>
 
-<div align="center">
-  <h2>Technologies I'm familiar with</h2>
-  
-  <h3>Programming Languages</h3>
-  <!-- Add your programming languages logos here -->
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" alt="Java" style="width:50px; height:50px; border-radius:50%; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" style="width:50px; height:50px; border-radius:50%; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);"/>
-  <!-- Add more logos as needed -->
-</div>
-
-  <h3>Frameworks</h3>
-  <!-- Add your frameworks logos here -->
-  <img src="URL_TO_HTML5_LOGO" alt="HTML5" width="50" height="50"/>
-  <img src="URL_TO_CSS_LOGO" alt="CSS" width="50" height="50"/>
-  <!-- Add more as needed -->
-
-  <h3>Tools</h3>
-  <!-- Add your tools logos here -->
-  <img src="URL_TO_GIT_LOGO" alt="Git" width="50" height="50"/>
-  <img src="URL_TO_PYCHARM_LOGO" alt="PyCharm" width="50" height="50"/>
-  <!-- Add more as needed -->
-
-  <h3>Operating Systems</h3>
-  <!-- Add your OS logos here -->
-  <img src="URL_TO_MACOS_LOGO" alt="macOS" width="50" height="50"/>
-  <img src="URL_TO_WINDOWS_LOGO" alt="Windows" width="50" height="50"/>
-  <!-- Add more as needed -->
-
-  <h3>Databases</h3>
-  <!-- Add your databases logos here -->
-  <img src="URL_TO_MS_SQL_SERVER_LOGO" alt="MS SQL Server" width="50" height="50"/>
-  <img src="URL_TO_MONGODB_LOGO" alt="MongoDB" width="50" height="50"/>
-  <!-- Add more as needed -->
-</div>
-
-
 
 </div>
