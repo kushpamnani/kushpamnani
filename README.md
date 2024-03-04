@@ -4,20 +4,22 @@
 
 <h1>Welcome to Kush Pamnani's Hub 👋</h1>
 
-<p>🎓 Greetings! I'm <strong>Kush Pamnani</strong>, a passionate junior at Iowa State University, deeply immersed in the world of Computer Science. My academic journey is not just about earning a degree; it's a quest fueled by a profound interest in web and software development. This path has led me to explore the intricacies of coding, design, and innovation, driving me towards mastering the art of creating impactful digital solutions.</p>
+<p>🎓 <strong>Greetings!</strong> I'm <strong>Kush Pamnani</strong>, a passionate junior at Iowa State University, deeply immersed in the world of Computer Science. My academic journey is not just about earning a degree; it's a quest fueled by a profound interest in <strong>web and software development</strong>. This path has led me to explore the intricacies of coding, design, and innovation, driving me towards mastering the art of creating impactful digital solutions.</p>
 
-<p>🔍 Embark on a journey through my repository, where each project unfolds a story of determination, growth, and discovery. Here, you'll witness how I navigate through complex challenges, continually refining my skills and expanding my knowledge base. From initial concepts to polished final products, my projects are a testament to my dedication to excellence in the realm of web and software development.</p>
+<p>🔍 <strong>Embark on a journey</strong> through my repository, where each project unfolds a story of determination, growth, and discovery. Here, you'll witness how I navigate through complex challenges, continually refining my skills and expanding my knowledge base. From initial concepts to polished final products, my projects are a testament to my dedication to excellence in the realm of <strong>web and software development</strong>.</p>
 
-<p>🎨 Step into my creative sphere, where code transcends its traditional boundaries to become a medium of artistic expression. My passion for development is matched by my eagerness to experiment and innovate, resulting in projects that are not only functional but also aesthetically pleasing. Browse through my work, and you'll see a blend of technical prowess and creative flair, showcasing my ability to bring diverse ideas to life.</p>
+<p>🎨 <strong>Step into my creative sphere</strong>, where code transcends its traditional boundaries to become a medium of artistic expression. My passion for development is matched by my eagerness to experiment and innovate, resulting in projects that are not only functional but also aesthetically pleasing. Browse through my work, and you'll see a blend of technical prowess and creative flair, showcasing my ability to bring diverse ideas to life.</p>
 
-<p>🚀 Looking ahead, I am keenly interested in pursuing opportunities within web and software development that will allow me to further hone my skills and deepen my expertise. Whether it's contributing to cutting-edge projects, engaging in collaborative endeavors, or exploring new technologies, I am always on the lookout for ways to push the boundaries of what's possible in the digital domain.</p>
+<p>🚀 <strong>Looking ahead</strong>, I am keenly interested in pursuing opportunities within <strong>web and software development</strong> that will allow me to further hone my skills and deepen my expertise. Whether it's contributing to cutting-edge projects, engaging in collaborative endeavors, or exploring new technologies, I am always on the lookout for ways to push the boundaries of what's possible in the digital domain.</p>
 
-<p>💬 Let's connect! Whether you're interested in collaborations, discussions, or simply wish to exchange ideas, I'm all ears. The digital future is vast and full of potential, and I believe that together, we can forge paths that lead to innovation, growth, and success. Reach out, and let's embark on this exciting journey to create, inspire, and make a lasting impact in the world of technology.</p>
+<p>💬 <strong>Let's connect!</strong> Whether you're interested in collaborations, discussions, or simply wish to exchange ideas, I'm all ears. The digital future is vast and full of potential, and I believe that together, we can forge paths that lead to innovation, growth, and success. Reach out, and let's embark on this exciting journey to create, inspire, and make a lasting impact in the world of technology.</p>
 
 <p>Together, let's turn visions into realities and dreams into tangible achievements. Welcome to my hub, where the journey is just as thrilling as the destination.</p>
 
+<br>
+
 <a href="https://www.linkedin.com/in/kushpamnani/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="30" height="30" alt="LinkedIn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="30" height="30" alt="LinkedIn" style="margin-top: 20px;">
 </a>
 
 </div>
