@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hi there](https://camo.githubusercontent.com/b2b688db1f6826e136cc51b97070deea8af15747acb3bf0b9e209afd4a313374/68747470733a2f2f70687973696373677572756b756c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30322f6368617261637465722d312e676966](https://s3.ezgif.com/tmp/ezgif-3-3724187529.gif) 
+![Hi there](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif) 
  
 <!-- This is a placeholder image. Replace the URL with your custom "Hi there" greeting image or GIF that has the fading colored effect. -->
 
