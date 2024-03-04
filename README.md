@@ -16,6 +16,41 @@
 
 <p>Together, let's turn visions into realities and dreams into tangible achievements. Welcome to my hub, where the journey is just as thrilling as the destination.</p>
 
+<div align="center">
+  <h2>Technologies I'm familiar with</h2>
+  <p>Here are the technologies I work with:</p>
+  
+  <h3>Programming Languages</h3>
+  <!-- Add your programming languages logos here -->
+  <img src="URL_TO_JAVA_LOGO" alt="Java" width="50" height="50"/>
+  <img src="URL_TO_PYTHON_LOGO" alt="Python" width="50" height="50"/>
+  <!-- Add more as needed -->
+
+  <h3>Frameworks</h3>
+  <!-- Add your frameworks logos here -->
+  <img src="URL_TO_HTML5_LOGO" alt="HTML5" width="50" height="50"/>
+  <img src="URL_TO_CSS_LOGO" alt="CSS" width="50" height="50"/>
+  <!-- Add more as needed -->
+
+  <h3>Tools</h3>
+  <!-- Add your tools logos here -->
+  <img src="URL_TO_GIT_LOGO" alt="Git" width="50" height="50"/>
+  <img src="URL_TO_PYCHARM_LOGO" alt="PyCharm" width="50" height="50"/>
+  <!-- Add more as needed -->
+
+  <h3>Operating Systems</h3>
+  <!-- Add your OS logos here -->
+  <img src="URL_TO_MACOS_LOGO" alt="macOS" width="50" height="50"/>
+  <img src="URL_TO_WINDOWS_LOGO" alt="Windows" width="50" height="50"/>
+  <!-- Add more as needed -->
+
+  <h3>Databases</h3>
+  <!-- Add your databases logos here -->
+  <img src="URL_TO_MS_SQL_SERVER_LOGO" alt="MS SQL Server" width="50" height="50"/>
+  <img src="URL_TO_MONGODB_LOGO" alt="MongoDB" width="50" height="50"/>
+  <!-- Add more as needed -->
+</div>
+
 
 
 </div>
