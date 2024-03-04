@@ -13,7 +13,7 @@
 
 <p>🚀 <strong>Looking ahead</strong>, I am keenly interested in pursuing opportunities within <strong>web and software development</strong> that will allow me to further hone my skills and deepen my expertise. Whether it's contributing to cutting-edge projects, engaging in collaborative endeavors, or exploring new technologies, I am always on the lookout for ways to push the boundaries of what's possible in the digital domain.</p>
 
-<p>💬 <strong>Let's connect!</strong> Whether you're interested in collaborations, discussions, or simply wish to exchange ideas, I'm all ears. The digital future is vast and full of potential, and I believe that together, we can forge paths that lead to innovation, growth, and success. Reach out, and let's embark on this exciting journey to create, inspire, and make a lasting impact in the world of technology.</p>
+<p>💬 <strong>Let's connect!</strong> Whether you're interested in collaborations, discussions, or simply wish to exchange ideas, I'm all ears. The digital future is vast and full of potential, and I believe that together, we can forge paths that lead to innovation, growth, and success. Reach out at kushpamnanii@gmail.com, and let's embark on this exciting journey to create, inspire, and make a lasting impact in the world of technology.</p>
 
 <p>Together, let's turn visions into realities and dreams into tangible achievements. Welcome to my hub, where the journey is just as thrilling as the destination.</p>
 
