@@ -17,5 +17,14 @@
 
 <p>Together, let's turn visions into realities and dreams into tangible achievements. Welcome to my hub, where the journey is just as thrilling as the destination.</p>
 
+## Technologies 💻
+
+My toolbelt includes but is not limited to:
+
+- `HTML5` & `CSS3` for structure and style.
+- `JavaScript` for dynamic interactions.
+- `React.js` for building user interfaces.
+- `Node.js` for server-side magic.
+
 
 </div>
