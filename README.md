@@ -28,4 +28,6 @@
   <li><strong>Tools & Platforms:</strong> Visual Studio Code, GitHub, JIRA</li>
 </ul>
 
+[![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushpamnani)](https://github.com/kushpamnani/github-readme-stats)
+
 </div>
