@@ -16,10 +16,6 @@
 
 <p>Together, let's turn visions into realities and dreams into tangible achievements. Welcome to my hub, where the journey is just as thrilling as the destination.</p>
 
-<br>
 
-<a href="https://www.linkedin.com/in/kushpamnani/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="30" height="30" alt="LinkedIn" style="margin-top: 20px;">
-</a>
 
 </div>
