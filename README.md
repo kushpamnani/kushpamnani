@@ -22,8 +22,8 @@
   
   <h3>Programming Languages</h3>
   <!-- Add your programming languages logos here -->
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" alt="Java" width="50" height="50"/>
-  <img src="URL_TO_PYTHON_LOGO" alt="Python" width="50" height="50"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fjava-logo%2F&psig=AOvVaw1XA2nRALNSrgXhaoAWxUJP&ust=1709618124628000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNj16_n12YQDFQAAAAAdAAAAABAE" alt="Java" style="width:50px; height:50px; border-radius:10%; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);"/>
+  <img src="URL_TO_PYTHON_LOGO" alt="Python" style="width:50px; height:50px; border-radius:10%; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);"/>
   <!-- Add more as needed -->
 
   <h3>Frameworks</h3>
