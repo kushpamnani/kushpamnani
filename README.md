@@ -3,6 +3,8 @@
 <img src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk1MzAxNTcsIm5iZiI6MTcwOTUyOTg1NywicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA0VDA1MjQxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmM2EwMWUwZjNhNzllNDdhMDRiMTBhODcwYTJjNzM5MmU4YmJiMjNlY2IyYjAyNGExYzhkNWVlODY2NGMyYWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.id86bdtwBPcQlkBqUPWmthKic21KXWJBvOHafa7sUy8" width="400" height="300" alt="GIF Description">
 
 Welcome to Kush Pamnani's Hub 👋
+
+
 🎓 Greetings! I'm Kush Pamnani, a passionate junior at Iowa State University, deeply immersed in the world of Computer Science. My academic journey is not just about earning a degree; it's a quest fueled by a profound interest in web and software development. This path has led me to explore the intricacies of coding, design, and innovation, driving me towards mastering the art of creating impactful digital solutions.
 
 🔍 Embark on a journey through my repository, where each project unfolds a story of determination, growth, and discovery. Here, you'll witness how I navigate through complex challenges, continually refining my skills and expanding my knowledge base. From initial concepts to polished final products, my projects are a testament to my dedication to excellence in the realm of web and software development.
