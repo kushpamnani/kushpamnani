@@ -17,5 +17,15 @@
 
 <p>Together, let's turn visions into realities and dreams into tangible achievements. Welcome to my hub, where the journey is just as thrilling as the destination.</p>
 
+<h2>💻 Technologies & Tools</h2>
+<p>My journey through the world of computer science has equipped me with a broad skill set across various technologies and tools. Below is a list of some key areas I specialize in:</p>
+<ul>
+  <li><strong>Programming Languages:</strong> Python, JavaScript, Java, C#</li>
+  <li><strong>Web Development:</strong> HTML5, CSS3, React.js, Node.js, Express.js</li>
+  <li><strong>Software Development:</strong> Agile Methodologies, Git, Docker</li>
+  <li><strong>Database Management:</strong> MongoDB, MySQL, Firebase</li>
+  <li><strong>Cloud Services:</strong> AWS, Google Cloud Platform, Microsoft Azure</li>
+  <li><strong>Tools & Platforms:</strong> Visual Studio Code, GitHub, JIRA</li>
+</ul>
 
 </div>
