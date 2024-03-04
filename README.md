@@ -4,4 +4,4 @@
 
 💡 Whether you're here to collaborate, explore, or simply say hi, I'm thrilled to share my projects with you. Each repository tells a story of challenges tackled, skills honed, and lessons learned. So, dive in, explore my work, and let's connect the dots together to build something amazing!
 
-🌐 Feel free to reach out to me for collaborations, discussions, or just a friendly chat about the latest in tech. Together, let's code, create, and innovate for a brighter digital future!
+🌐 Feel free to reach out to me at __kushpamnanii@gmail.com__ for collaborations, discussions, or just a friendly chat about the latest in tech. Together, let's code, create, and innovate for a brighter digital future!
