@@ -22,9 +22,10 @@
   
   <h3>Programming Languages</h3>
   <!-- Add your programming languages logos here -->
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" alt="Java" style="width:50px; height:50px; border-radius:10%; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);"/>
-  <img src="URL_TO_PYTHON_LOGO" alt="Python" style="width:50px; height:50px; border-radius:10%; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);"/>
-  <!-- Add more as needed -->
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" alt="Java" style="width:50px; height:50px; border-radius:50%; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);"/>
+  <img src="DIRECT_URL_TO_PYTHON_LOGO" alt="Python" style="width:50px; height:50px; border-radius:50%; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);"/>
+  <!-- Add more logos as needed -->
+</div>
 
   <h3>Frameworks</h3>
   <!-- Add your frameworks logos here -->
