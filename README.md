@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hi there]([https://via.placeholder.com/150/0000FF/808080?Text=Hi%20There](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDavidon4&psig=AOvVaw0qoI7_k5MdfDpHs9YGpe7M&ust=1709615451334000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDbiP_r2YQDFQAAAAAdAAAAABAE)) 
+![Hi there](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDavidon4&psig=AOvVaw0qoI7_k5MdfDpHs9YGpe7M&ust=1709615451334000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDbiP_r2YQDFQAAAAAdAAAAABAE) 
 
 <!-- This is a placeholder image. Replace the URL with your custom "Hi there" greeting image or GIF that has the fading colored effect. -->
 
