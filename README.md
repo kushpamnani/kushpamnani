@@ -4,7 +4,8 @@
 
 <h1>Welcome to Kush Pamnani's Hub 👋</h1>
 
-<p>🎓 <strong>Greetings!</strong> I'm <strong>Kush Pamnani</strong>, a passionate junior at Iowa State University, deeply immersed in the world of Computer Science. My academic journey is not just about earning a degree; it's a quest fueled by a profound interest in <strong>web and software development</strong>. This path has led me to explore the intricacies of coding, design, and innovation, driving me towards mastering the art of creating impactful digital solutions.</p>
+🎓 <h2>Greetings!</h2>
+<p> I'm <strong>Kush Pamnani</strong>, a passionate junior at Iowa State University, deeply immersed in the world of Computer Science. My academic journey is not just about earning a degree; it's a quest fueled by a profound interest in <strong>web and software development</strong>. This path has led me to explore the intricacies of coding, design, and innovation, driving me towards mastering the art of creating impactful digital solutions.</p>
 
 <p>🔍 <strong>Embark on a journey</strong> through my repository, where each project unfolds a story of determination, growth, and discovery. Here, you'll witness how I navigate through complex challenges, continually refining my skills and expanding my knowledge base. From initial concepts to polished final products, my projects are a testament to my dedication to excellence in the realm of <strong>web and software development</strong>.</p>
 
@@ -18,7 +19,6 @@
 
 <div align="center">
   <h2>Technologies I'm familiar with</h2>
-  <p>Here are the technologies I work with:</p>
   
   <h3>Programming Languages</h3>
   <!-- Add your programming languages logos here -->
