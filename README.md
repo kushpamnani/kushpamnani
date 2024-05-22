@@ -19,9 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushpamnani&theme=tokyonight)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kushpamnani&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/kushpamnani/github-readme-activity-graph)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushpamnani&title=Top%20Languages%20Used&theme=tokyonight)
 
 
 
