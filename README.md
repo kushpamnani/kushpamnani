@@ -24,15 +24,12 @@ Looking ahead, I am keenly interested in pursuing opportunities within **web and
 
 Let's connect! Whether you're interested in collaborations, discussions, or simply wish to exchange ideas, I'm all ears. The digital future is vast and full of potential, and I believe that together, we can forge paths that lead to innovation, growth, and success. Reach out at **kushpamnanii@gmail.com**, and let's embark on this exciting journey to create, inspire, and make a lasting impact in the world of technology.
 
-<p align="center">
-    Together, let's turn visions into realities and dreams into tangible achievements. Welcome to my hub, where the journey is just as thrilling as the destination.
-</p>
+
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushpamnani&theme=tokyonight" alt="Top Langs" />
 </div>
 
-![Kush Pamnani's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kushpamnani&theme=react-dark&area=true&hide_border=true)
 
 
 
