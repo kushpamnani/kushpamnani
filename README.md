@@ -24,6 +24,25 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushpamnani&layout=compact&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=ff0000)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushpamnani&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kushpamnani&theme=radical)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kushpamnani&color=blueviolet)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kushpamnani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kushpamnani&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/kushpamnani/github-readme-activity-graph)
+
+![GitHub Contribution Calendar](https://github-readme-streak-stats.herokuapp.com?user=kushpamnani&theme=dracula&hide_border=true)
+
+
+
+
+
+
+
 
 
 </div>
