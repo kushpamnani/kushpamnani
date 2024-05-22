@@ -17,5 +17,8 @@
 
 <p>Together, let's turn visions into realities and dreams into tangible achievements. Welcome to my hub, where the journey is just as thrilling as the destination.</p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushpamnani&theme=tokyonight)
+
+
 
 </div>
