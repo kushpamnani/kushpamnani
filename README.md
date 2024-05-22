@@ -32,9 +32,8 @@ Let's connect! Whether you're interested in collaborations, discussions, or simp
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushpamnani&theme=tokyonight" alt="Top Langs" />
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kushpamnani&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+![Kush Pamnani's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kushpamnani&theme=react-dark&area=true&hide_border=true)
+
 
 
 
