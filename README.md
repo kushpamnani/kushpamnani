@@ -36,28 +36,5 @@ Let's connect! Whether you're interested in collaborations, discussions, or simp
     <img src="https://github-readme-stats.vercel.app/api?username=kushpamnani&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushpamnani&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=kushpamnani&color=blueviolet" alt="Profile Views" />
-</div>
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kushpamnani&theme=tokyonight" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kushpamnani&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default" alt="Quote" />
-</div>
-
-<div align="center">
-    <a href="https://open.spotify.com/user/kushpamnani">
-        <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
-    </a>
-</div>
