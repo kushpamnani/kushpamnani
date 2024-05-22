@@ -19,6 +19,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushpamnani&theme=tokyonight)
 
+## My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushpamnani&layout=compact&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=ff0000)
+
+
 
 
 </div>
