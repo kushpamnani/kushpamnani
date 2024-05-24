@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-Hey there! I'm **Kush Pamnani**, a junior at Iowa State University majoring in Computer Science. Currently I'm interning at Copeland as a Software Engineer Intern!
+Hey there! I'm **Kush Pamnani**, a junior at Iowa State University majoring in Computer Science. Currently, I'm interning at Copeland as a Software Engineer Intern!
 
 ## 🔍 My Projects
 
