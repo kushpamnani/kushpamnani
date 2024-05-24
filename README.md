@@ -6,19 +6,15 @@
 
 ## 🎓 About Me
 
-Hey there! I'm **Kush Pamnani**, a junior at Iowa State University majoring in Computer Science. My academic journey is more than just classes and grades – it's about diving deep into **web and software development**. I love exploring new technologies and finding creative ways to solve problems with code.
+Hey there! I'm **Kush Pamnani**, a junior at Iowa State University majoring in Computer Science. Currently I'm interning at Copeland as a Software Engineer Intern!
 
 ## 🔍 My Projects
 
-Take a look at my projects here on GitHub. Each one represents a challenge I've tackled and a new skill I've learned. From brainstorming ideas to the final product, you'll see how much effort I put into refining my work and learning along the way. My projects reflect my dedication to creating excellent **web and software solutions**.
-
-## 🎨 Creative Sphere
-
-I like to think of coding as a form of art. In my projects, I aim to combine functionality with creativity. Whether it's through innovative designs or unique solutions, I strive to make my work both effective and visually appealing. Check out my work to see how I blend technical skills with a creative approach.
+I have worked on these projects over a long course of time, exploring different sections of Software Engineering with some more curiosity to learn about Mobile and App Development!
 
 ## 🚀 Future Aspirations
 
-Looking ahead, I'm excited about the future and the opportunities it holds. I'm eager to take on new challenges in **web and software development**, continue learning, and contribute to meaningful projects. Whether it's working on cutting-edge technology, collaborating with others, or diving into new areas, I'm always looking for ways to grow and push the boundaries of what's possible.
+Looking ahead, I'm excited about the future and the opportunities it holds. I'm eager to take on new challenges in **software development**, continue learning, and contribute to meaningful projects. Whether it's working on cutting-edge technology, collaborating with others, or diving into new areas, I'm always looking for ways to grow and push the boundaries of what's possible.
 
 ## 💬 Let's Connect
 
