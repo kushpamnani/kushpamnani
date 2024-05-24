@@ -10,7 +10,7 @@ Hey there! I'm **Kush Pamnani**, a junior at Iowa State University majoring in C
 
 ## 🧑🏻‍💻 My Projects
 
-I have worked on these projects over a long course of time, exploring different sections of Software Engineering with some more curiosity to learn about Mobile and App Development!
+I have worked on these projects over a long course of time, exploring different sections of Software Engineering with some more curiosity to learn about App Development!
 
 ## 🚀 Future Aspirations
 
