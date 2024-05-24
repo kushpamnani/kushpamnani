@@ -8,7 +8,7 @@
 
 Hey there! I'm **Kush Pamnani**, a junior at Iowa State University majoring in Computer Science. Currently, I'm interning at Copeland as a Software Engineer Intern!
 
-## 🔍 My Projects
+## 🧑🏻‍💻 My Projects
 
 I have worked on these projects over a long course of time, exploring different sections of Software Engineering with some more curiosity to learn about Mobile and App Development!
 
