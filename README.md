@@ -20,8 +20,7 @@ Looking ahead, I'm excited about the future and the opportunities it holds. I'm 
 
 I'm always open to connecting with others who share my passion for technology. If you're interested in collaborating, discussing ideas, or just chatting about the latest in tech, feel free to reach out to me at **kushpamnanii@gmail.com**. Let's explore the digital world together and create something amazing.
 
-<div align="center">
+
   [![GitHub Streak](https://streak-stats.demolab.com/?user=kushpamnani&theme=cobalt)](https://git.io/streak-stats)
-</div>
 
 
