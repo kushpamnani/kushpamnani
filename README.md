@@ -18,6 +18,6 @@ Looking ahead, I'm excited about the future and the opportunities it holds. I'm 
 
 ## 💬 Let's Connect
 
-I'm always open to connecting with others who share my passion for technology. If you're interested in collaborating, discussing ideas, or just chatting about the latest in tech, feel free to reach out to me at **kushpamnanii@gmail.com**. Let's explore the digital world together and create something amazing.
+I'm always open to connecting with others who share my passion for technology. If you're interested in collaborating, discussing ideas, or just chatting about the latest in tech, feel free to reach out to me at **kushpamnanii@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/kushpamnani/). Let's explore the digital world together and create something amazing.
 
 
