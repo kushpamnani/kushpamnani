@@ -20,4 +20,5 @@ Looking ahead, I'm excited about the future and the opportunities it holds. I'm 
 
 I'm always open to connecting with others who share my passion for technology. If you're interested in collaborating, discussing ideas, or just chatting about the latest in tech, feel free to reach out to me at **kushpamnanii@gmail.com** or on my [LinkedIn](https://www.linkedin.com/in/kushpamnani/)!. Let's explore the digital world together and create something amazing.
 
-![GitHub Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg)
+
