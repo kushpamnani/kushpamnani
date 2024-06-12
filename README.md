@@ -8,13 +8,19 @@
 
 Hey there! I'm Kush Pamnani, a junior at Iowa State University majoring in Computer Science; Currently, I'm interning at Copeland as a Software Engineer Intern!
 
+---
+
 ## 🧑🏻‍💻 My Projects
 
 I have worked on these projects over a long course of time, exploring different areas of Software Engineering! Feel free to explore them!
 
+---
+
 ## 🚀 Future Aspirations
 
 Looking ahead, I'm excited about the future and the opportunities it holds. I'm eager to take on new challenges in **software development**, continue learning, and contribute to meaningful projects. Whether it's working on cutting-edge technology, collaborating with others, or diving into new areas, I'm always looking for ways to grow and push the boundaries of what's possible.
+
+---
 
 ## 💬 Let's Connect
 
