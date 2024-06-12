@@ -49,5 +49,3 @@ Connect with me on social media!
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
 </div>
 
-![GitHub Snake Animation](https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg)
-
