@@ -28,7 +28,7 @@ Looking ahead, I'm excited about the future and the opportunities it holds. I'm 
 Connect with me on social media!
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kushpamnani/">
+  <a href="https://www.linkedin.com/in/kush-pamnani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
