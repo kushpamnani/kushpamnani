@@ -7,8 +7,7 @@
 
 ## 🎓 About Me
 
-Hey there! I'm Kush Pamnani, a senior at Iowa State University majoring in Computer Science with a minor in Data Science.
-
+Hey there! I'm Kush Pamnani, a senior at Iowa State University majoring in Computer Science with a minor in Applied AI.
 
 
 ## 🧑🏻‍💻 My Projects
